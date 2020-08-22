@@ -1,14 +1,14 @@
 {
-	"Title": "Aditya Ketkar | Personal Webpage",
-	"Name": "Aditya Ketkar",
+	"Title": "Parth Agrawal | Personal Webpage",
+	"Name": "Parth Agrawal",
 	"Description": [
-		"Recent graduate from BITS Pilani. Passionate about Space Technology, Cognitive Modelling and Open Source.",
-		"I grab every chance I get to travel, learn and create."
+		"3rd year student at BITS Goa. Interested in machine learning and data science.",
+		"I grab every chance I get to learn and create."
 	],
-	"MainImage": "https://i.imgur.com/yQZNGdm.jpg",
+	"MainImage": "https://i.imgur.com/MtKL1OZ.jpg",
 	"BackgroundURL": "",
 
-	"AboutImage": "https://i.imgur.com/5sOLND6.jpg",
+	"AboutImage": "https://i.imgur.com/MtKL1OZ.jpg",
 	"AboutContent": [
 		"I’m a Computer Science major by day, a Table Tennis player by evening, a functional wantrepreneur by midnight and a hustler always.",
 		"If you can’t find me, it’s because I’m already cycling, off to a hike, or studying for an exam",
@@ -17,7 +17,7 @@
 	],
 
 	"WorkContent": [
-		"I am currently full time Software Developer Engineer at Microsoft."
+		"I am currently Software Developer Engineer Intern at Microsoft."
 	],
 	"WorkImage": "https://i.imgur.com/BHt1YKg.png",
 	"InternshipsStartLine": "Previously, I have interned with :",
@@ -57,11 +57,11 @@
 	"CV": "https://www.visualcv.com/aditya-ketkar/",
 	"Resume": "https://drive.google.com/file/d/1M1Vw1J7Yc3BFIgzJXX4_U-_nfIXCfK8n/view?usp=sharing",
 
-	"emailid": "mailto:adityaketkar848@gmail.com",
+	"emailid": "mailto:ag.parth1024@gmail.com",
 	"linkedin": "https://linkedin.com/in/adityaketkar",
 	"wordpress": "https://technoshblog.wordpress.com/",
 	"facebook": "https://www.facebook.com/aditya",
-	"github": "https://github.com/adityaketkar",
+	"github": "https://github.com/PARTH4096",
 	"instagram": "http://www.adityaketkar.me",
 	"twitter": "https://twitter.com/ketkar_a",
 	"medium": "https://medium.com/@ketkaraditya"
